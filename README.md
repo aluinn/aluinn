@@ -1,4 +1,4 @@
-## Hi, I'm Aluinn
+## Hi, I'm Aluinn McDonald 
 
 I'm a History and Philosophy of Science student at UCL, interested in how technology shapes knowledge, markets and society.
 
