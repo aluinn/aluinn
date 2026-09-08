@@ -1,35 +1,19 @@
 # Hi, I'm Aluinn McDonald
 
-**History & Philosophy of Science student at University College London | Builder, clothing brand owner & music artist**
+**UCL History & Philosophy of Science student | Pursuing a career in finance and technology**
 
-I'm a History and Philosophy of Science student at UCL, interested in how technology shapes knowledge, markets and society.
+I'm interested in how technology shapes knowledge, markets and society. My studies develop my ability to evaluate evidence, analyse complex ideas and communicate clearly—skills I'm keen to apply in finance and technology.
 
-I'm currently learning Python and building a portfolio spanning financial analysis, technology projects and independent research in philosophy of science.
+I'm learning Python and building a portfolio spanning financial analysis, technology projects and independent research. I have hands-on experience with drone projects and an interest in combining hardware and software.
 
-Alongside my studies at UCL, I run a clothing brand and create music as an artist and producer.
+I'm also interested in AI-assisted development, exploring how tools such as Claude Code and Codex can help turn ideas into working projects.
 
-My technical interests centre on projects that combine hardware and software, particularly drones and virtual reality. I've built projects with drones and am currently learning Python to develop my programming skills and explore new ideas.
-
-I'm looking to build a career in technology and finance, with a particular interest in where the two intersect.
-
-### Interests & Experience
-
-- **Hardware & software:** Building things that connect physical devices with software, with hands-on experience in drone projects.
-- **Technology & finance:** Exploring both fields alongside my studies in the history and philosophy of science.
-- **Creative work:** Running a clothing brand, making music, and producing.
+Alongside my studies, I run my own clothing brand and create music as an artist and producer.
 
 ### Currently Learning
 
 ![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=flat-square&logo=python&logoColor=white)
 
-
 ### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aluinn%20McDonald-0A66C2?style=flat-square)](https://www.linkedin.com/in/aluinn/)
-
-
-
-
-<!--
-
--->
