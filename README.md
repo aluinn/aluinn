@@ -1,4 +1,4 @@
-# Hi, I'm Aluinn McDonald
+# Hi, I'm Aluinn 
 
 **UCL History & Philosophy of Science student | Pursuing a career in finance and technology**
 
