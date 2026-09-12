@@ -2,7 +2,7 @@
 
 **UCL History & Philosophy of Science student | Pursuing a career in finance and technology**
 
-I'm interested in how technology shapes knowledge, markets and society. My studies develop my ability to evaluate evidence, analyse complex ideas and communicate clearly—skills I'm keen to apply in finance and technology.
+I'm interested in how technology shapes knowledge, markets and society. 
 
 I'm learning Python and building a portfolio spanning financial analysis, technology projects and independent research. I have hands-on experience with drone projects and an interest in combining hardware and software.
 
