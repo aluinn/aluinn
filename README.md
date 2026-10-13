@@ -6,7 +6,7 @@ I'm interested in how technology shapes knowledge, markets and society.
 
 I'm learning Python and building a portfolio spanning financial analysis, technology projects and independent research. I have hands-on experience with drone projects and an interest in combining hardware and software.
 
-I'm also interested in AI-assisted development, exploring how tools such as Claude Code and Codex can help turn ideas into working projects.
+I'm also interested in AI-assisted development, exploring how tools such as Claude Code, Cursor and Codex can help turn ideas into working projects.
 
 Alongside my studies, I run my own clothing brand and create music as an artist and producer.
 
