@@ -2,7 +2,7 @@
 
 **UCL History & Philosophy of Science student | Pursuing a career in finance and technology**
 
-🥈 2nd place, Grok Bot Commerce London Hackathon (Trim)
+🥈 2nd place, SpaceX AI Grok Bot Commerce London Hackathon (Trim)
 
 I'm learning Python and building a portfolio spanning financial analysis, technology projects and independent research. I have hands-on experience with drone projects and an interest in combining hardware and software.
 
